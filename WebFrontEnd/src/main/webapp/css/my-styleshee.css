@@ -1,0 +1,62 @@
+
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+#mydiv{
+    position: absolute; /* important thing to make element draggable*/
+}
+.dropdownbtn {
+    padding: 20px 20px;
+    border-radius: 100%;
+    border: none;
+    background-color: #C0C0C0;
+}
+
+.dropdownbtn:hover{
+    background-color: #D3D3D3;
+    cursor: pointer;
+}
+.container{
+    position: relative;
+}
+
+.items{
+    display: none;
+    position: relative;
+}
+
+li a{
+    text-decoration: none;
+    font-size:20px;
+}
+li a:hover{
+    text-decoration: underline;
+}
+.mytablecontainer{
+    display: none;
+}
+.mytable{
+    table-layout: fixed; /* this line and tbody: block is the key to make fixed header table*/
+    text-align: left;
+}
+.mytable tbody{
+    height: 150px;
+    overflow: auto;
+    display: block;
+    
+}
+.mytable tr{
+    display: block;
+}
+.mytable th, .mytable td{
+    width: 100px;
+    overflow: hidden;
+    border-bottom: 1px solid black;
+}
+/* this make the scrollbar hidden but only work on google chrome */
+.mytable tbody::-webkit-scrollbar{ 
+    display:none;
+}

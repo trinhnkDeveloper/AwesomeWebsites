@@ -1,0 +1,69 @@
+{
+    "lop1A": [{
+            "firstName": "Nguyen ",
+            "lastName": "van B"
+        }, {
+            "firstName": "Nguyen",
+            "lastName": "van tep"
+        }, {
+            "firstName": "tran",
+            "lastName": "van tom"
+        }, {
+            "firstName": "huynh",
+            "lastName": "thi a"
+        }, {
+            "firstName": "huynh",
+            "lastName": "thi a"
+        }, {
+            "firstName": "huynh",
+            "lastName": "thi a"
+        }, {
+            "firstName": "huynh",
+            "lastName": "thi a"
+        }, {
+            "firstName": "huynh",
+            "lastName": "thi a"
+        }, {
+            "firstName": "huynh",
+            "lastName": "thi a"
+        }],
+    "lop1B": [{
+            "firstName": "Bui",
+            "lastName": "Kiem"
+        }, {
+            "firstName": "Tran",
+            "lastName": "Thi Hoa"
+        }, {
+            "firstName": "Nguyen",
+            "lastName": "chu teo"
+        }, {
+            "firstName": "Nguyen",
+            "lastName": "Bao B"
+        }],
+    "lop1C": [{
+            "firstName": "Nguyen",
+            "lastName": "Thi Huong"
+        }, {
+            "firstName": "Huynh",
+            "lastName": "Tien Lap"
+        }, {
+            "firstName": "Truong",
+            "lastName": "Van Van"
+        }, {
+            "firstName": "Nguyen",
+            "lastName": "Ty Ty"
+        }],
+    "lop1D": [{
+            "firstName": "Trinh",
+            "lastName": "Giao Huan"
+        }, {
+            "firstName": "Dao",
+            "lastName": "Duy Tu"
+        }, {
+            "firstName": "Nguyen",
+            "lastName": "Tri"
+        }, {
+            "firstName": "Ha",
+            "lastName": "Hung long"
+        }]
+}
